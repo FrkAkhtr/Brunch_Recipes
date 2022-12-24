@@ -1,2 +1,2 @@
 # Brunch_Recipes
-Git and HTML practice
+This is a Git and HTMl practice for The Odin Project
